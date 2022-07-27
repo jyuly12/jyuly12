@@ -82,7 +82,9 @@ I love technology, learning new things and challenges.
 ## 📈 My Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyuly12&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jyuly12&show_icons=true&theme=dark"/> 
+  </pr>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyuly12&theme=dark"/>
+  </pr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jyuly12&layout=compact&theme=dark"/>
 </div>

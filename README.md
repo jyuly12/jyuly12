@@ -7,7 +7,7 @@
 Hi there 👋, I'm Julieth 🎀
 </h3>
 <h2 align="center">
-I'm full stack developer 💻 and mechatronics engineer 🛠.
+I'm Full Stack Developer 💻 and Mechatronics Engineer 🛠.
 </h2>
 I love technology, learning new things and challenges.
 
@@ -37,7 +37,7 @@ I love technology, learning new things and challenges.
 
 <details  >
 <summary>
-  Code
+  Code 💻
 </summary>
  </br>
 <p align='center'>
@@ -47,19 +47,17 @@ I love technology, learning new things and challenges.
 
 <details>
   <summary>
-    Databases
+    Databases 🗃
   </summary>
   </br>
   <p align='center'>
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-          
-          
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />   
   </p>
 </details>
 
 <details>
   <summary>
-    Styles
+    Styles 🎨
   </summary>
   </br>
   <p align='center'>
@@ -70,7 +68,7 @@ I love technology, learning new things and challenges.
 
 <details>
   <summary>
-    Tools
+    Tools ⚙️
   </summary>
   </br>
   <p align='center'>
@@ -81,10 +79,13 @@ I love technology, learning new things and challenges.
         
 ## 📈 My Github Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyuly12&show_icons=true&theme=dark"/> 
-  </pr>
+<p align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyuly12&theme=dark"/>
   </pr>
+  <img src="https://github-readme-stats.vercel.app/api?username=jyuly12&show_icons=true&theme=dark"/> 
+  </pr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jyuly12&layout=compact&theme=dark"/>
-</div>
+</p>
+
+
+<p>
